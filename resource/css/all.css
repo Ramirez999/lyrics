@@ -1,0 +1,52 @@
+
+body {
+	background: white;
+}
+
+.wrapper {
+	height: 100vh;
+	padding-top: 70px;
+}
+
+.form-signin {
+  max-width: 380px;
+  padding: 15px 35px 45px;
+  margin: 0 auto;
+  background-color: #fff;
+	}
+
+	.form-control {
+	  position: relative;
+	  font-size: 16px;
+	  height: auto;
+	  padding: 10px;
+	}
+
+  .btncon{
+    margin-top: 40px;
+  }
+
+  .usercon{
+    padding-top: 20px;
+  }
+
+  input[type="text"] {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+input[type="password"] {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+ .cardd{
+	max-width: 50rem;
+
+}
+.card-body{
+	max-width: 100rem;
+	height:100%;
+
+	border-color: 	#D3D3D3;
+	background-color:	#D3D3D3;
+}
